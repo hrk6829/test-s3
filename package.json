@@ -1,0 +1,16 @@
+{
+  "name": "mss-api",
+  "version": "0.5.0",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.478.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CMN shirahama",
+  "license": "ISC"
+}
