@@ -16,7 +16,7 @@
 
 ## 実行例
 ```
-# node index.js upload cmn-mss 1/test.txt test.txt
-# node index.js download cmn-mss 1/test.txt test.txt
-# node index.js delete cmn-mss 1/test.txt
+# node index.js upload test-bucket 1/test.txt test.txt
+# node index.js download test-bucket 1/test.txt test.txt
+# node index.js delete test-bucket 1/test.txt
 ```
